@@ -1,0 +1,17 @@
+C:\Users\jbt\Desktop\ZIVZIV123\Crosses\Crosses\bin\Debug\Crosses.exe.config
+C:\Users\jbt\Desktop\ZIVZIV123\Crosses\Crosses\bin\Debug\Crosses.exe
+C:\Users\jbt\Desktop\ZIVZIV123\Crosses\Crosses\bin\Debug\Crosses.pdb
+C:\Users\jbt\Desktop\ZIVZIV123\Crosses\Crosses\obj\Debug\Crosses.exe
+C:\Users\jbt\Desktop\ZIVZIV123\Crosses\Crosses\obj\Debug\Crosses.pdb
+C:\Users\jbt\Desktop\ZIVZIV123\Crosses\Crosses\obj\Debug\Crosses.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\ZIVZIV123\Archiv\Crosses\Crosses\bin\Debug\Crosses.exe.config
+C:\Users\jbt\Desktop\ZIVZIV123\Archiv\Crosses\Crosses\bin\Debug\Crosses.exe
+C:\Users\jbt\Desktop\ZIVZIV123\Archiv\Crosses\Crosses\bin\Debug\Crosses.pdb
+C:\Users\jbt\Desktop\ZIVZIV123\Archiv\Crosses\Crosses\obj\Debug\Crosses.exe
+C:\Users\jbt\Desktop\ZIVZIV123\Archiv\Crosses\Crosses\obj\Debug\Crosses.pdb
+E:\ZIVZIV123\Crosses\Crosses\bin\Debug\Crosses.exe.config
+E:\ZIVZIV123\Crosses\Crosses\obj\Debug\Crosses.exe
+E:\ZIVZIV123\Crosses\Crosses\obj\Debug\Crosses.pdb
+H:\ZIVZIV123\Crosses\Crosses\bin\Debug\Crosses.exe.config
+H:\ZIVZIV123\Crosses\Crosses\obj\Debug\Crosses.exe
+H:\ZIVZIV123\Crosses\Crosses\obj\Debug\Crosses.pdb
